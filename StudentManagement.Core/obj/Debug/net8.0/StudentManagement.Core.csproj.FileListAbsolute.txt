@@ -1,0 +1,11 @@
+C:\Users\prabe\Desktop\internpractise\StudentManagement.Api\StudentManagement.Core\bin\Debug\net8.0\StudentManagement.Core.deps.json
+C:\Users\prabe\Desktop\internpractise\StudentManagement.Api\StudentManagement.Core\bin\Debug\net8.0\StudentManagement.Core.dll
+C:\Users\prabe\Desktop\internpractise\StudentManagement.Api\StudentManagement.Core\bin\Debug\net8.0\StudentManagement.Core.pdb
+C:\Users\prabe\Desktop\internpractise\StudentManagement.Api\StudentManagement.Core\obj\Debug\net8.0\StudentManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabe\Desktop\internpractise\StudentManagement.Api\StudentManagement.Core\obj\Debug\net8.0\StudentManagement.Core.AssemblyInfoInputs.cache
+C:\Users\prabe\Desktop\internpractise\StudentManagement.Api\StudentManagement.Core\obj\Debug\net8.0\StudentManagement.Core.AssemblyInfo.cs
+C:\Users\prabe\Desktop\internpractise\StudentManagement.Api\StudentManagement.Core\obj\Debug\net8.0\StudentManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\prabe\Desktop\internpractise\StudentManagement.Api\StudentManagement.Core\obj\Debug\net8.0\StudentManagement.Core.dll
+C:\Users\prabe\Desktop\internpractise\StudentManagement.Api\StudentManagement.Core\obj\Debug\net8.0\refint\StudentManagement.Core.dll
+C:\Users\prabe\Desktop\internpractise\StudentManagement.Api\StudentManagement.Core\obj\Debug\net8.0\StudentManagement.Core.pdb
+C:\Users\prabe\Desktop\internpractise\StudentManagement.Api\StudentManagement.Core\obj\Debug\net8.0\ref\StudentManagement.Core.dll

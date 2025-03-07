@@ -1,0 +1,1157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43419487-9172-478D-9859-E0CFF09AF88D}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.infrastructure\\persistence\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43419487-9172-478D-9859-E0CFF09AF88D}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|solutionrelative:studentmanagement.infrastructure\\persistence\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60580A4D-C9F1-4BA6-874D-E719390FC027}|StudentManagement.Api\\StudentManagement.Api.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60580A4D-C9F1-4BA6-874D-E719390FC027}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\courses\\createcoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\courses\\createcoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60580A4D-C9F1-4BA6-874D-E719390FC027}|StudentManagement.Api\\StudentManagement.Api.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60580A4D-C9F1-4BA6-874D-E719390FC027}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\dtos\\studentgpadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\dtos\\studentgpadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43419487-9172-478D-9859-E0CFF09AF88D}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43419487-9172-478D-9859-E0CFF09AF88D}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|solutionrelative:studentmanagement.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\interfaces\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\interfaces\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F8C398-F7DC-43F1-9CCA-3C656F36C802}|StudentManagement.Core\\StudentManagement.Core.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F8C398-F7DC-43F1-9CCA-3C656F36C802}|StudentManagement.Core\\StudentManagement.Core.csproj|solutionrelative:studentmanagement.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43419487-9172-478D-9859-E0CFF09AF88D}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.infrastructure\\infrastructuredependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43419487-9172-478D-9859-E0CFF09AF88D}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|solutionrelative:studentmanagement.infrastructure\\infrastructuredependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\students\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\students\\createstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43419487-9172-478D-9859-E0CFF09AF88D}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.infrastructure\\migrations\\20250307062646_initials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43419487-9172-478D-9859-E0CFF09AF88D}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|solutionrelative:studentmanagement.infrastructure\\migrations\\20250307062646_initials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43419487-9172-478D-9859-E0CFF09AF88D}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.infrastructure\\studentmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43419487-9172-478D-9859-E0CFF09AF88D}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|solutionrelative:studentmanagement.infrastructure\\studentmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\studentmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\studentmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60580A4D-C9F1-4BA6-874D-E719390FC027}|StudentManagement.Api\\StudentManagement.Api.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.api\\studentmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60580A4D-C9F1-4BA6-874D-E719390FC027}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\studentmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\students\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\students\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\students\\getstudentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\students\\getstudentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\queries\\getstudentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\queries\\getstudentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60580A4D-C9F1-4BA6-874D-E719390FC027}|StudentManagement.Api\\StudentManagement.Api.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60580A4D-C9F1-4BA6-874D-E719390FC027}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F8C398-F7DC-43F1-9CCA-3C656F36C802}|StudentManagement.Core\\StudentManagement.Core.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.core\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F8C398-F7DC-43F1-9CCA-3C656F36C802}|StudentManagement.Core\\StudentManagement.Core.csproj|solutionrelative:studentmanagement.core\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60580A4D-C9F1-4BA6-874D-E719390FC027}|StudentManagement.Api\\StudentManagement.Api.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60580A4D-C9F1-4BA6-874D-E719390FC027}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\students\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\students\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\students\\gettop3studentsbygpaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\students\\gettop3studentsbygpaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\students\\getstudentgpaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\students\\getstudentgpaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\students\\getallstudentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\students\\getallstudentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\enrollments\\getenrollmentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\enrollments\\getenrollmentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60580A4D-C9F1-4BA6-874D-E719390FC027}|StudentManagement.Api\\StudentManagement.Api.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.api\\controllers\\studentgpacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60580A4D-C9F1-4BA6-874D-E719390FC027}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\controllers\\studentgpacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\queries\\gettop3studentsbygpaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\queries\\gettop3studentsbygpaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\queries\\getstudentgpaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\queries\\getstudentgpaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\queries\\getgradebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\queries\\getgradebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\grades\\updategradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\grades\\updategradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\grades\\getgradebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\grades\\getgradebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\grades\\getallgradeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\grades\\getallgradeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\grades\\deletegradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\grades\\deletegradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\grades\\creategradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\grades\\creategradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\enrollments\\updateenrollmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\enrollments\\updateenrollmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\enrollments\\getallenrollmentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\enrollments\\getallenrollmentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\enrollments\\deleteenrollmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\enrollments\\deleteenrollmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\enrollments\\createenrollmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\enrollments\\createenrollmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\courses\\updatecoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\courses\\updatecoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\courses\\getcoursebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\courses\\getcoursebyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\courses\\getallcourseshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\courses\\getallcourseshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\handlers\\courses\\deletecoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\handlers\\courses\\deletecoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\commands\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\commands\\createstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\commands\\creategradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\commands\\creategradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\commands\\createenrollmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\commands\\createenrollmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60580A4D-C9F1-4BA6-874D-E719390FC027}|StudentManagement.Api\\StudentManagement.Api.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.api\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60580A4D-C9F1-4BA6-874D-E719390FC027}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60580A4D-C9F1-4BA6-874D-E719390FC027}|StudentManagement.Api\\StudentManagement.Api.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.api\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60580A4D-C9F1-4BA6-874D-E719390FC027}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\queries\\getenrollmentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\queries\\getenrollmentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\queries\\getallenrollmentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\queries\\getallenrollmentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\queries\\getallgradesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\queries\\getallgradesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\queries\\getallstudentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\queries\\getallstudentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\queries\\getcoursebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\queries\\getcoursebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\dtos\\gradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\dtos\\gradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\queries\\getallcoursesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\queries\\getallcoursesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F8C398-F7DC-43F1-9CCA-3C656F36C802}|StudentManagement.Core\\StudentManagement.Core.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.core\\studentmanagement.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4F8C398-F7DC-43F1-9CCA-3C656F36C802}|StudentManagement.Core\\StudentManagement.Core.csproj|solutionrelative:studentmanagement.core\\studentmanagement.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\commands\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\commands\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\commands\\updategradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\commands\\updategradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\commands\\updateenrollmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\commands\\updateenrollmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\commands\\updatecoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\commands\\updatecoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\commands\\deletegradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\commands\\deletegradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\commands\\deleteenrollmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\commands\\deleteenrollmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\commands\\deletecoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\commands\\deletecoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.application\\cqrs\\commands\\createcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E69B9F8-E129-4F46-B42D-8ADA3851510B}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\cqrs\\commands\\createcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F8C398-F7DC-43F1-9CCA-3C656F36C802}|StudentManagement.Core\\StudentManagement.Core.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.core\\entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F8C398-F7DC-43F1-9CCA-3C656F36C802}|StudentManagement.Core\\StudentManagement.Core.csproj|solutionrelative:studentmanagement.core\\entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F8C398-F7DC-43F1-9CCA-3C656F36C802}|StudentManagement.Core\\StudentManagement.Core.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.core\\entity\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F8C398-F7DC-43F1-9CCA-3C656F36C802}|StudentManagement.Core\\StudentManagement.Core.csproj|solutionrelative:studentmanagement.core\\entity\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F8C398-F7DC-43F1-9CCA-3C656F36C802}|StudentManagement.Core\\StudentManagement.Core.csproj|c:\\users\\prabe\\desktop\\internpractise\\studentmanagement.api\\studentmanagement.core\\entity\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F8C398-F7DC-43F1-9CCA-3C656F36C802}|StudentManagement.Core\\StudentManagement.Core.csproj|solutionrelative:studentmanagement.core\\entity\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Infrastructure\\Persistence\\Repository.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\Persistence\\Repository.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Infrastructure\\Persistence\\Repository.cs",
+              "RelativeToolTip": "StudentManagement.Infrastructure\\Persistence\\Repository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:54:15.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\DTOs\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\DTOs\\CourseDTO.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\DTOs\\CourseDTO.cs",
+              "RelativeToolTip": "StudentManagement.Application\\DTOs\\CourseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:35:00.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "StudentManagement.Application\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:33:55.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentGpaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\DTOs\\StudentGpaDTO.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\DTOs\\StudentGpaDTO.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\DTOs\\StudentGpaDTO.cs",
+              "RelativeToolTip": "StudentManagement.Application\\DTOs\\StudentGpaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:34:33.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Api\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Api\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:10:28.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCourseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Courses\\CreateCourseHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Courses\\CreateCourseHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Courses\\CreateCourseHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Courses\\CreateCourseHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:52:40.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Api\\Program.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:24:51.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "StudentManagement.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:39:16.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\Interfaces\\IAppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\Interfaces\\IAppDbContext.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\Interfaces\\IAppDbContext.cs",
+              "RelativeToolTip": "StudentManagement.Application\\Interfaces\\IAppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:56:26.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Core\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Core\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Core\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "StudentManagement.Core\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:55:53.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InfrastructureDependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Infrastructure\\InfrastructureDependencyInjection.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\InfrastructureDependencyInjection.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Infrastructure\\InfrastructureDependencyInjection.cs",
+              "RelativeToolTip": "StudentManagement.Infrastructure\\InfrastructureDependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:04:38.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentManagement.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj",
+              "RelativeToolTip": "StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T05:38:42.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Students\\CreateStudentHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Students\\CreateStudentHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Students\\CreateStudentHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Students\\CreateStudentHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:38:36.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250307062646_initials.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Infrastructure\\Migrations\\20250307062646_initials.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\Migrations\\20250307062646_initials.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Infrastructure\\Migrations\\20250307062646_initials.cs",
+              "RelativeToolTip": "StudentManagement.Infrastructure\\Migrations\\20250307062646_initials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:26:47.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentManagement.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Api\\StudentManagement.Api.csproj",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\StudentManagement.Api.csproj",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Api\\StudentManagement.Api.csproj",
+              "RelativeToolTip": "StudentManagement.Api\\StudentManagement.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T06:19:57.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetStudentByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Students\\GetStudentByIdHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Students\\GetStudentByIdHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Students\\GetStudentByIdHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Students\\GetStudentByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:39:59.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Core\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Core\\Entity\\Student.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Core\\Entity\\Student.cs",
+              "RelativeToolTip": "StudentManagement.Core\\Entity\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:34:23.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentManagement.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\StudentManagement.Application.csproj",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\StudentManagement.Application.csproj",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\StudentManagement.Application.csproj",
+              "RelativeToolTip": "StudentManagement.Application\\StudentManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T05:55:54.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetStudentByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetStudentByIdQuery.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Queries\\GetStudentByIdQuery.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetStudentByIdQuery.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Queries\\GetStudentByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:03:29.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Students\\DeleteStudentHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Students\\DeleteStudentHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Students\\DeleteStudentHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Students\\DeleteStudentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:39:01.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Api\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Api\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:12:26.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetTop3StudentsByGpaQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Students\\GetTop3StudentsByGpaQueryHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Students\\GetTop3StudentsByGpaQueryHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Students\\GetTop3StudentsByGpaQueryHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Students\\GetTop3StudentsByGpaQueryHandler.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:41:12.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Api\\appsettings.json",
+              "RelativeToolTip": "StudentManagement.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T06:16:53.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetAllStudentsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Students\\GetAllStudentsHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Students\\GetAllStudentsHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Students\\GetAllStudentsHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Students\\GetAllStudentsHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:39:31.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetStudentGpaQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Students\\GetStudentGpaQueryHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Students\\GetStudentGpaQueryHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Students\\GetStudentGpaQueryHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Students\\GetStudentGpaQueryHandler.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:40:28.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Students\\UpdateStudentHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Students\\UpdateStudentHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Students\\UpdateStudentHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Students\\UpdateStudentHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:41:47.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetEnrollmentByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\GetEnrollmentByIdHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\GetEnrollmentByIdHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\GetEnrollmentByIdHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\GetEnrollmentByIdHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:37:45.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateGradeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Grades\\UpdateGradeHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Grades\\UpdateGradeHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Grades\\UpdateGradeHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Grades\\UpdateGradeHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:23:40.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetGradeByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetGradeByIdQuery.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Queries\\GetGradeByIdQuery.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetGradeByIdQuery.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Queries\\GetGradeByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:03:19.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetStudentGpaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetStudentGpaQuery.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Queries\\GetStudentGpaQuery.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetStudentGpaQuery.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Queries\\GetStudentGpaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:03:35.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetTop3StudentsByGpaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetTop3StudentsByGpaQuery.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Queries\\GetTop3StudentsByGpaQuery.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetTop3StudentsByGpaQuery.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Queries\\GetTop3StudentsByGpaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:04:01.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentGPAController.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Api\\Controllers\\StudentGPAController.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Controllers\\StudentGPAController.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Api\\Controllers\\StudentGPAController.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Controllers\\StudentGPAController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:12:10.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetGradeByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Grades\\GetGradeByIdHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Grades\\GetGradeByIdHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Grades\\GetGradeByIdHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Grades\\GetGradeByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:20:11.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetAllGradesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Grades\\GetAllGradesHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Grades\\GetAllGradesHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Grades\\GetAllGradesHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Grades\\GetAllGradesHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:22:51.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DeleteGradeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Grades\\DeleteGradeHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Grades\\DeleteGradeHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Grades\\DeleteGradeHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Grades\\DeleteGradeHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:22:04.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateGradeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Grades\\CreateGradeHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Grades\\CreateGradeHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Grades\\CreateGradeHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Grades\\CreateGradeHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:22:11.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateEnrollmentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\UpdateEnrollmentHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\UpdateEnrollmentHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\UpdateEnrollmentHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\UpdateEnrollmentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:28:00.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetAllEnrollmentsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\GetAllEnrollmentsHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\GetAllEnrollmentsHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\GetAllEnrollmentsHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\GetAllEnrollmentsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:27:00.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DeleteEnrollmentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\DeleteEnrollmentHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\DeleteEnrollmentHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\DeleteEnrollmentHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\DeleteEnrollmentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:26:42.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateEnrollmentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\CreateEnrollmentHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\CreateEnrollmentHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\CreateEnrollmentHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Enrollments\\CreateEnrollmentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:26:17.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UpdateCourseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Courses\\UpdateCourseHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Courses\\UpdateCourseHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Courses\\UpdateCourseHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Courses\\UpdateCourseHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:25:56.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetCourseByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Courses\\GetCourseByIdHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Courses\\GetCourseByIdHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Courses\\GetCourseByIdHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Courses\\GetCourseByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:25:29.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetAllCoursesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Courses\\GetAllCoursesHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Courses\\GetAllCoursesHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Courses\\GetAllCoursesHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Courses\\GetAllCoursesHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:25:10.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DeleteCourseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Courses\\DeleteCourseHandler.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Handlers\\Courses\\DeleteCourseHandler.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Handlers\\Courses\\DeleteCourseHandler.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Handlers\\Courses\\DeleteCourseHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:24:56.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\CreateStudentCommand.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Commands\\CreateStudentCommand.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\CreateStudentCommand.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Commands\\CreateStudentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:49:07.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CreateGradeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\CreateGradeCommand.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Commands\\CreateGradeCommand.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\CreateGradeCommand.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Commands\\CreateGradeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:49:29.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CreateEnrollmentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\CreateEnrollmentCommand.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Commands\\CreateEnrollmentCommand.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\CreateEnrollmentCommand.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Commands\\CreateEnrollmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:42:25.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GradesController.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Api\\Controllers\\GradesController.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Controllers\\GradesController.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Api\\Controllers\\GradesController.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Controllers\\GradesController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:11:19.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Api\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Controllers\\EnrollmentsController.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Api\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:10:58.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GetEnrollmentByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetEnrollmentByIdQuery.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Queries\\GetEnrollmentByIdQuery.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetEnrollmentByIdQuery.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Queries\\GetEnrollmentByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:00:16.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GetAllEnrollmentsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetAllEnrollmentsQuery.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Queries\\GetAllEnrollmentsQuery.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetAllEnrollmentsQuery.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Queries\\GetAllEnrollmentsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:59:39.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GetAllGradesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetAllGradesQuery.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Queries\\GetAllGradesQuery.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetAllGradesQuery.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Queries\\GetAllGradesQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:59:45.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GetAllStudentsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetAllStudentsQuery.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Queries\\GetAllStudentsQuery.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetAllStudentsQuery.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Queries\\GetAllStudentsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:59:49.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GetCourseByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetCourseByIdQuery.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Queries\\GetCourseByIdQuery.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetCourseByIdQuery.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Queries\\GetCourseByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:00:09.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GradeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\DTOs\\GradeDTO.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\DTOs\\GradeDTO.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\DTOs\\GradeDTO.cs",
+              "RelativeToolTip": "StudentManagement.Application\\DTOs\\GradeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:35:51.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EnrollmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\DTOs\\EnrollmentDTO.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\DTOs\\EnrollmentDTO.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\DTOs\\EnrollmentDTO.cs",
+              "RelativeToolTip": "StudentManagement.Application\\DTOs\\EnrollmentDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:35:25.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "StudentManagement.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:07:20.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "StudentManagement.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:06:50.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GetAllCoursesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetAllCoursesQuery.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Queries\\GetAllCoursesQuery.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Queries\\GetAllCoursesQuery.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Queries\\GetAllCoursesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:59:16.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "StudentManagement.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Core\\StudentManagement.Core.csproj",
+              "RelativeDocumentMoniker": "StudentManagement.Core\\StudentManagement.Core.csproj",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Core\\StudentManagement.Core.csproj",
+              "RelativeToolTip": "StudentManagement.Core\\StudentManagement.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T05:24:34.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UpdateStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\UpdateStudentCommand.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Commands\\UpdateStudentCommand.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\UpdateStudentCommand.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Commands\\UpdateStudentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:51:20.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UpdateGradeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\UpdateGradeCommand.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Commands\\UpdateGradeCommand.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\UpdateGradeCommand.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Commands\\UpdateGradeCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:51:13.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UpdateEnrollmentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\UpdateEnrollmentCommand.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Commands\\UpdateEnrollmentCommand.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\UpdateEnrollmentCommand.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Commands\\UpdateEnrollmentCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:51:07.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UpdateCourseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\UpdateCourseCommand.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Commands\\UpdateCourseCommand.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\UpdateCourseCommand.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Commands\\UpdateCourseCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:51:01.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DeleteGradeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\DeleteGradeCommand.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Commands\\DeleteGradeCommand.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\DeleteGradeCommand.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Commands\\DeleteGradeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:50:52.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "DeleteEnrollmentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\DeleteEnrollmentCommand.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Commands\\DeleteEnrollmentCommand.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\DeleteEnrollmentCommand.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Commands\\DeleteEnrollmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:50:46.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DeleteCourseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\DeleteCourseCommand.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Commands\\DeleteCourseCommand.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\DeleteCourseCommand.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Commands\\DeleteCourseCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:50:36.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CreateCourseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\CreateCourseCommand.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\CQRS\\Commands\\CreateCourseCommand.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Application\\CQRS\\Commands\\CreateCourseCommand.cs",
+              "RelativeToolTip": "StudentManagement.Application\\CQRS\\Commands\\CreateCourseCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:41:55.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Core\\Entity\\Course.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Core\\Entity\\Course.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Core\\Entity\\Course.cs",
+              "RelativeToolTip": "StudentManagement.Core\\Entity\\Course.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:31:41.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Core\\Entity\\Enrollment.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Core\\Entity\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Core\\Entity\\Enrollment.cs",
+              "RelativeToolTip": "StudentManagement.Core\\Entity\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:32:01.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Core\\Entity\\Grade.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Core\\Entity\\Grade.cs",
+              "ToolTip": "C:\\Users\\prabe\\Desktop\\internpractise\\StudentManagement.Api\\StudentManagement.Core\\Entity\\Grade.cs",
+              "RelativeToolTip": "StudentManagement.Core\\Entity\\Grade.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:32:17.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
